@@ -4,8 +4,9 @@ fastapi
 uvicorn
 pandas
 numpy
-scikit-learn
+scikit-learn==1.6.1
 joblib
+imblearn
 
 
 Sample Data to put in try out for swagger ui on the server:
@@ -22,4 +23,5 @@ Sample Data to put in try out for swagger ui on the server:
     "Contract_Two year": 0,
     "Contract_One year": 1
 }
+
 
