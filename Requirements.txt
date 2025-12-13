@@ -1,0 +1,25 @@
+Libraries Required:
+
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+joblib
+
+
+Sample Data to put in try out for swagger ui on the server:
+
+{
+    "gender_Female": 1,
+    "SeniorCitizen": 0,
+    "Partner_Yes": 1,
+    "Dependents_Yes": 0,
+    "tenure": 12,
+    "PhoneService_Yes": 1,
+    "MonthlyCharges": 70.2,
+    "TotalCharges": 900,
+    "Contract_Two year": 0,
+    "Contract_One year": 1
+}
+
